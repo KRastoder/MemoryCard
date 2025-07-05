@@ -1,0 +1,4 @@
+[x] - Create a react App
+[x] - Add tailwind 
+[] - plan structure of the program 
+
